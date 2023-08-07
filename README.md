@@ -1,2 +1,3 @@
-# cerenothoa.github.io
-<https://cerenothoa.github.io>
+# 长尾蝶文学社静态版
+
+基于伞伞的恁蝶菜谱网为模板复刻，施工中——我觉得我也就这水平了
