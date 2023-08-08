@@ -53,7 +53,7 @@ a:hover {
 div#container {
 	margin: 0;
 	padding: 0;
-	background: url("body_bg.png") top left repeat-x;
+	background: url("../img/body_bg.png") top left repeat-x;
 }
 #header {
 	width: 90%;
@@ -63,7 +63,7 @@ div#container {
 	position: relative;
 	z-index: 10;
 	padding-bottom: 22px;
-	background: url("logo.svg") 10px 40px no-repeat;
+	background: url("../img/logo.svg") 10px 40px no-repeat;
 	background-size: 100px 100px;
 }
 #header h1 {
